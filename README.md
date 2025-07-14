@@ -1,2 +1,1 @@
-# bibek_paudel
-about my school
+school project.
